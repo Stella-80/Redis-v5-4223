@@ -1,4 +1,5 @@
+---
 application:
-  name: redis
-  project: CHANGEME
-  organization: CHANGEME
+  name: "redis"
+  project: "akenoX"
+  organization: "QoveryCommunity"
